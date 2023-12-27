@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/MinePage",
+    "pages/RegistrationSuccessPage",
+    "pages/PrivacyPage",
+    "pages/CustomerServicePage",
+    "pages/musicmv",
+    "pages/musicstart",
+    "pages/web",
+    "pages/personal",
+    "pages/shoucang",
+    "pages/musicsearch"
+  ]
+}
